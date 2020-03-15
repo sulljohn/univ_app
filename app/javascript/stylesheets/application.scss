@@ -1,0 +1,18 @@
+// Source 1: https://medium.com/@guilhermepejon/how-to-install-materialize-css-in-rails-6-0-0-beta2-using-webpack-347c03b7104e
+// Source 2: https://stackoverflow.com/questions/47979120/how-to-change-color-theme-in-materializecss
+
+@import "materialize-css/sass/components/_color-variables.scss";
+
+$primary-color: color("blue", "lighten-2") !default;
+
+@import "materialize-css/sass/materialize.scss"; // Use the SCSS instead
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
