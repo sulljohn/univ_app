@@ -1,24 +1,12 @@
-# README
+# University course planning application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Link
 
-Things you may want to cover:
+[Link](https://sulljohn-university-app.herokuapp.com/)
 
-* Ruby version
+## Info
 
-* System dependencies
+Made by following the tutorial: [Link](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Done in Rails 6.
+* Uses MaterializeCSS - used a different color palette tan in the tutorial.
